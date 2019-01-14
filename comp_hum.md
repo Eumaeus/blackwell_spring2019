@@ -6,6 +6,25 @@ The specific work of the course described here will be textual. Each student wil
 
 The scholarly, *humanist* principles of this class are ancient, and quite clearly explained by Professor Neel Smith, College of the Holy Cross, in [this video](https://youtu.be/yQ3Znh5vk2w).
 
+## General Expectations
+
+Students are expected to come prepared to class. Specifically:
+	
+- Laptop working and charged.
+- Network connection active (and not in remediation)
+- When we start workin in a Virtual Machine, that VM booted and logged in before class.
+
+Students are expected to be *resourceful*:
+
+- In case of errors, read the text that may appear on your screen.
+- Look for answers and solutions online.
+- Try stuff.
+
+Students are expected to be *collegial*:
+
+- Generous with help, praise, enthusiasm.
+- Stingy with blame.
+
 ## Specific Assignments
 
 (Newer assignment appear at the top)
