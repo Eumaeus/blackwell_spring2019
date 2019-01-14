@@ -22,6 +22,7 @@ Students are expected to be *resourceful*:
 
 Students are expected to be *collegial*:
 
+- Alert, apparently cheerful, and engaged.
 - Generous with help, praise, enthusiasm.
 - Stingy with blame.
 
@@ -30,15 +31,16 @@ Students are expected to be *collegial*:
 (Newer assignment appear at the top)
 
 - For **Wednesday, January 16**: 
-	- Be able to take a screenshot of a portion of your screen.
-		- [Windows](https://www.laptopmag.com/articles/capture-screenshots-windows-10)
-		- [Mac OS](https://support.apple.com/en-us/HT201361)
-	- Download and install [the Atom text editor](https://atom.io)
+	- Be able to take a screenshot of a portion of your screen. Know how to e-mail a screenshot to someone.
+		- [Windows](https://www.laptopmag.com/articles/capture-screenshots-windows-10). Read past the first two, down to #3 and #4!
+		- [Mac OS](https://support.apple.com/en-us/HT201361).
+	- Download and install [the Atom text editor](https://atom.io). When you first run Atom, read what you see and take action to keep the "Welcome" screen from showing up in the future.
 	- Read <https://flight-manual.atom.io/getting-started/sections/atom-basics/> as a basic introduction to Atom.
 	- Know how to (or figure out how to) change the UI Theme and Syntax Theme in Atom.
 	- Download and install the [DejaVu fonts](https://dejavu-fonts.github.io).
 	- **Windows Users** Download the [Git for Windows installer](https://gitforwindows.org) and install it, accepting all defaults.
 	- **Mac Users** Via the Mac App Store, download and install XCode. 
+	- **There will be a quiz on Wednesday**: You will open Atom, change the theme, take a screenshot of your Atom, and email it to me.
 
 ## Module: The Vocabulary, Grammar, & Syntax of Computation
 
