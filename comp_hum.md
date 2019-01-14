@@ -4,6 +4,7 @@ This course aims to teach students of the Liberal Arts concepts, methods, and to
 
 The specific work of the course described here will be textual. Each student will pursue a specific project in creating a new digital scholarly edition of a text, testing it with programmatic validation and machine-assisted verification, publishing it, performing basic analyses on it, and capturing the results of that *procedural* analysis as *declarative* scholarly object.
 
+The scholarly, *humanist* principles of this class are ancient, and quite clearly explained by Professor Neel Smith, College of the Holy Cross, in [this video](https://youtu.be/yQ3Znh5vk2w).
 
 ## Specific Assignments
 
