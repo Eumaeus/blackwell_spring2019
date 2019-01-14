@@ -1,7 +1,6 @@
 # CSC-270: Computational Approaches to the Humanities
 
-
-
+This course aims to teach students of the Liberal Arts concepts, methods, and tools sufficient to make them informed and sophisticated collaborators with computer scientists and professional developers, critical consumers of digital data, and independent and fearless users of computational tools. It should serve as a foundation for further work on digital scholarship. 
 
 ## Specific Assignments
 
@@ -23,7 +22,7 @@
 ### Technical Skills
 
 - GUI File system: Home, Desktop, Documents, System files.
-- The Terminal (`terminal.app` on MacOX; `GitBASH` on Windows).
+- The Terminal, or "Command Line Interface" ("CLI"): `terminal.app` on MacOX; `GitBASH` on Windows).
 - Navigating the POSIX file system on the CLI: `~`, `pwd`, `cd`, `cat`, `less`.
 - Unix commands with flags: `man`, `wc`.
 - Text Editor.
@@ -50,9 +49,6 @@
 - Make copies of it and rename them.
 - Report on its contents with `wc`.
 	- Using self-help from `man`, format that output in various ways.
-
-
-## Grading
 
 ## Attendance policy:
 
