@@ -2,6 +2,9 @@
 
 This course aims to teach students of the Liberal Arts concepts, methods, and tools sufficient to make them informed and sophisticated collaborators with computer scientists and professional developers, critical consumers of digital data, and independent and fearless users of computational tools. It should serve as a foundation for further work on digital scholarship. 
 
+The specific work of the course described here will be textual. Each student will pursue a specific project in creating a new digital scholarly edition of a text, testing it with programmatic validation and machine-assisted verification, publishing it, performing basic analyses on it, and capturing the results of that *procedural* analysis as *declarative* scholarly object.
+
+
 ## Specific Assignments
 
 (Newer assignment appear at the top)
