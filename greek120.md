@@ -27,7 +27,7 @@ Students are expected to be *collegial*:
 
 - For **Thursday, January 16**: 
 	- **Quiz**: Write the six principal parts of παιδεύω; identify each principal part (tense, voice, person, number).
-	- **Write out to hand in**: Drill III(a) and III(c) on p. 133. This will require reviewing verb-forms from earlier chapters.
+	- **Write out to hand in**: Drill III(a) and III(c) *just 1-15*, on p. 133. This will require reviewing verb-forms from earlier chapters.
 
 
 
