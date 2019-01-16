@@ -31,10 +31,19 @@ Students are expected to be *collegial*:
 (Newer assignment appear at the top)
 - For **Wednesday, January 23**:
 	- Read [Word Processors: Stupid and Inefficient](http://ricardo.ecn.wfu.edu/~cottrell/wp.html). Be able to summarize, very briefly, what the author's point is. 
+	- Watch [this video](https://www.youtube.com/watch?v=lSfNQIeb0uo&feature=youtu.be) and [this video](https://www.youtube.com/watch?v=oxuRxtrO2Ag&feature=youtu.be).
 	- Know the difference between filesystem, GUI, and CLI.
-	- Be able, quickly, to navigate to your *home directory* and your *desktop directory* in the GUI.
-	- Be able to download a plain-text file from the internet, save it to a given directory, find it in the GUI *and* in the CLI, 
+	- Be able, quickly, to navigate to the *root directory*, your *home directory* and your *desktop directory* in the GUI.
 	- Be able to create a folder (or "directory") using the GUI
+	- Be able to download a plain-text file from the internet, save it to a given directory, find it in the GUI.
+		- Practice with [this file](https://raw.githubusercontent.com/Eumaeus/blackwell_spring2019/master/texts/pride_and_prejudice.txt).
+	- Be able to open that text file in a GUI application, by opening *Pride and Prejudice* in Atom.
+	- In the CLI, be able to navigate to the *root directory* with `cd /`, to your *home directory* with `cd ~`, and your *desktop directory* with `cd ~/Desktop`.
+	- In the CLI, be able to see the files in a directory with `ls`.
+	- Know what "tab completion" means, in the CLI.
+	- Be able to work with a file using CLI applications: Navigate to where *Pride and Prejudice* is saved on your computer using `cd`, look at its contents using `less` (to get out of `less`, type `q`). Count the words in the novel using `wc`.
+	- Be able to find help on any of this by typing, *e.g.* "unix wc" into Google.
+
 - For **Wednesday, January 16**: 
 	- Be able to take a screenshot of a portion of your screen. Know how to e-mail a screenshot to someone.
 		- [Windows](https://www.laptopmag.com/articles/capture-screenshots-windows-10). Read past the first two, down to #3 and #4!
