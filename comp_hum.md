@@ -29,7 +29,12 @@ Students are expected to be *collegial*:
 ## Specific Assignments
 
 (Newer assignment appear at the top)
-
+- For **Wednesday, January 23**:
+	- Read [Word Processors: Stupid and Inefficient](http://ricardo.ecn.wfu.edu/~cottrell/wp.html). Be able to summarize, very briefly, what the author's point is. 
+	- Know the difference between filesystem, GUI, and CLI.
+	- Be able, quickly, to navigate to your *home directory* and your *desktop directory* in the GUI.
+	- Be able to download a plain-text file from the internet, save it to a given directory, find it in the GUI *and* in the CLI, 
+	- Be able to create a folder (or "directory") using the GUI
 - For **Wednesday, January 16**: 
 	- Be able to take a screenshot of a portion of your screen. Know how to e-mail a screenshot to someone.
 		- [Windows](https://www.laptopmag.com/articles/capture-screenshots-windows-10). Read past the first two, down to #3 and #4!
