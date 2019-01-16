@@ -42,7 +42,8 @@ Students are expected to be *collegial*:
 	- In the CLI, be able to see the files in a directory with `ls`.
 	- Know what "tab completion" means, in the CLI.
 	- Be able to work with a file using CLI applications: Navigate to where *Pride and Prejudice* is saved on your computer using `cd`, look at its contents using `less` (to get out of `less`, type `q`). Count the words in the novel using `wc`.
-	- Be able to find help on any of this by typing, *e.g.* "unix wc" into Google.
+	- Be able to find help on any of this by typing, *e.g.* "[unix wc](https://www.google.com/search?source=hp&ei=Z24_XObAOa--ggf3u4DYCQ&q=unix+wc&btnK=Google+Search&oq=unix+wc&gs_l=psy-ab.3..35i39j0l9.936.2391..2802...0.0..1.104.709.7j2......0....1..gws-wiz.....0..0i67j0i131j0i131i20i263j0i131i67j0i20i263.-10j9k-yXrU)" into Google.
+
 
 - For **Wednesday, January 16**: 
 	- Be able to take a screenshot of a portion of your screen. Know how to e-mail a screenshot to someone.
