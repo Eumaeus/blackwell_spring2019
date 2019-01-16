@@ -38,7 +38,7 @@ Students are expected to be *collegial*:
 	- Be able to download a plain-text file from the internet, save it to a given directory, find it in the GUI.
 		- Practice with [this file](https://raw.githubusercontent.com/Eumaeus/blackwell_spring2019/master/texts/pride_and_prejudice.txt).
 	- Be able to open that text file in a GUI application, by opening *Pride and Prejudice* in Atom.
-	- In the CLI, be able to navigate to the *root directory* with `cd /`, to your *home directory* with `cd ~`, and your *desktop directory* with `cd ~/Desktop`.
+	- In the CLI, be able to navigate to the *root directory* with `cd /`, to your *home directory* with `cd ~`, and your *desktop directory* with `cd ~/Desktop`. Be able to go "up" the filesystem hierarchy with `cd ..`. Find where you are with `pwd`. 
 	- In the CLI, be able to see the files in a directory with `ls`.
 	- Know what "tab completion" means, in the CLI.
 	- Be able to work with a file using CLI applications: Navigate to where *Pride and Prejudice* is saved on your computer using `cd`, look at its contents using `less` (to get out of `less`, type `q`). Count the words in the novel using `wc`.
