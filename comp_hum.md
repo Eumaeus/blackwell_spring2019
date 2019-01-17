@@ -73,6 +73,7 @@ Students are expected to be *collegial*:
 
 ### Concepts
 
+- Machine, OS, filesystem, file, directory, application
 - A file system is a…
 	- hierarchy
 	- graph

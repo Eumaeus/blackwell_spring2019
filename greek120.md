@@ -25,6 +25,9 @@ Students are expected to be *collegial*:
 
 (Newer assignment appear at the top)
 
+- For **Tuesday, January 22**: Enter Unit 5 vocabulary in your lexicon file. Write out to hand in the following (each is a separate quiz grade):
+	1. Drill III(a) and III(c), 16-30.
+	1. Drill V.
 - For **Thursday, January 16**: 
 	- **Quiz**: Write the six principal parts of παιδεύω; identify each principal part (tense, voice, person, number).
 	- **Write out to hand in**: Drill III(a) and III(c) *just 1-15*, on p. 133. This will require reviewing verb-forms from earlier chapters.
