@@ -25,7 +25,7 @@ Students are expected to be *collegial*:
 
 (Newer assignment appear at the top)
 
-- For **Thursday, January 24**: [Use the VM to analyze the file `unit5a`](https://eumaeus.github.io/fall2018vm/). Study for a **quiz** on the six principal parts of of πράττω and πείθω (also know what those verbs mean!).
+- For **Thursday, January 24**: Study for a **quiz** on the six principal parts of of πράττω and πείθω (also know what those verbs mean!).
 - For **Tuesday, January 22**: Enter Unit 5 vocabulary in your lexicon file. Write out to hand in the following (each is a separate quiz grade):
 	1. Drill III(a) and III(c), 16-30.
 	1. Drill V.
