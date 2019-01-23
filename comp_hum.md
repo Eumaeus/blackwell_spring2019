@@ -29,6 +29,21 @@ Students are expected to be *collegial*:
 ## Specific Assignments
 
 (Newer assignment appear at the top)
+
+- For **Friday, January 25**:
+	- Read about Markdown [here](https://daringfireball.net/projects/markdown/) and [here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
+	- Play with Markdown [here](https://markdown-here.com/livedemo.html).
+	- In Atom, create a new file with **filename extension** `.md`. Type some text in it, including:
+		- At least three heading-levels.
+		- Emphasis (italics).
+		- Strong Emphasis (bold).
+		- An ordered list.
+		- An unordered list.
+	- Be able to find that file in the CLI, open it in `nano`, save it, and exit.
+	- Go to <https://www.vagrantup.com> and install Vagrant for your machine.
+	- Go to <https://www.virtualbox.org> and install Virtual Box for your machine.
+	
+
 - For **Wednesday, January 23**:
 	- Read [Word Processors: Stupid and Inefficient](http://ricardo.ecn.wfu.edu/~cottrell/wp.html). Be able to summarize, very briefly, what the author's point is. 
 	- Watch [this video](https://www.youtube.com/watch?v=lSfNQIeb0uo&feature=youtu.be) and [this video](https://www.youtube.com/watch?v=oxuRxtrO2Ag&feature=youtu.be).
