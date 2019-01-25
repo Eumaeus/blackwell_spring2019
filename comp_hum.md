@@ -6,6 +6,11 @@ The specific work of the course described here will be textual. Each student wil
 
 The scholarly, *humanist* principles of this class are ancient, and quite clearly explained by Professor Neel Smith, College of the Holy Cross, in [this video](https://youtu.be/yQ3Znh5vk2w).
 
+## Course Materials
+
+- Various online sources.
+- The [Virtual Machine](https://eumaeus.github.io/vm_Spring_2019/) for this class: a Vagrant VM running Ubuntu Linux, v. 14.
+
 ## General Expectations
 
 Students are expected to come prepared to class. Specifically:
@@ -30,6 +35,18 @@ Students are expected to be *collegial*:
 
 (Newer assignment appear at the top)
 
+- For **Monday, January 28**: 
+	- Read [this introduction to regular expressions](https://www.regular-expressions.info/quickstart.html). If you don't like the tacky appearance of that page, there are millions of others online. 
+	- Take a look at the page on [regular expressions in Atom](https://dev.to/programliftoff/learn-regular-expressions-using-atom-alk), which includes more links to regex tutorials and info. Things you really need to know:
+		- `^` and `$`
+		- `\d`, `\s`, `\`
+		- `[a-zA-Z]` and `[^d]`
+		- `+`, `?`, `*` and the concept of "greediness"
+		- `{2}`
+		- Parentheses and `|`, *e.g.* `\s((is)|(was))\s` 
+	- Using your text of *Pride and Prejudice*, play around with Regular Expressions.
+	- For class on Monday, come up with some *analysis* (from [ἀνάλυσις](http://folio2.furman.edu/lsj/?urn=urn:cite2:hmt:lsj.chicago_md:n6942), *analūsis*) of *P&P* that takes advantage of *regular expressions* (it does not have to have an earth-shattering result). 
+	- Finally, start thinking of a project you might like to work on… the starting point should be a text that is in the public domain and for which you can get some *electronic version* to work with. [Project Gutenberg](https://www.gutenberg.org) is a good source.
 - For **Friday, January 25**:
 	- Read about Markdown [here](https://daringfireball.net/projects/markdown/) and [here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 	- Play with Markdown [here](https://markdown-here.com/livedemo.html).
