@@ -35,6 +35,18 @@ Students are expected to be *collegial*:
 
 (Newer assignment appear at the top)
 
+- For **Wednesday, January 30**:
+	- Come to class with a working VM.
+	- Know how to log into the VM, navigate to where your work is, log out, and quit the VM.
+	- Be ready for a short quiz on the following concepts:
+		- Downloading a plain-text file from a website.
+		- Opening it in Atom.
+		- Doing a couple of basic regular-expression queries:
+			1. Find all strings of digits.
+			1. Find words that begin with an upper-case letter.
+			1. Find words that contain a given string.	
+		- Two ways to find help for Linux/Unix/[Posix](https://en.wikipedia.org/wiki/POSIX) commands.
+	- For a second quiz grade: Go to <https://github.com>, create an account, *remembering your username and password*! 
 - For **Monday, January 28**: 
 	- Read [this introduction to regular expressions](https://www.regular-expressions.info/quickstart.html). If you don't like the tacky appearance of that page, there are millions of others online. 
 	- Take a look at the page on [regular expressions in Atom](https://dev.to/programliftoff/learn-regular-expressions-using-atom-alk), which includes more links to regex tutorials and info. Things you really need to know:
@@ -122,6 +134,39 @@ Students are expected to be *collegial*:
 - Make copies of it and rename them.
 - Report on its contents with `wc`.
 	- Using self-help from `man`, format that output in various ways.
+
+## Module: Saving + Documenting = Archiving
+
+### Technical Skills
+
+- Basic version control with `git`: `git init`, `git add`, `git commit`
+- OMG, I got dropped into `vim`?!!
+	- How to type in, move in, save in, and exit `vim`.
+	- Why you might consider using `vim` all the time; how to do so if you so choose.
+- Distributed version control with GitHub: create an account, `git clone`, `git pull`, `git push`.
+	- Seeking help without shame when something unexpected happens in `git`.
+- Introduction to the basics of Markdown.
+
+### Concepts
+
+- Versioning. Version control. Distributed version control.
+- LOCKSS: "lots of copies keep stuff safe".
+- Markup: procedural *versus* semantic.
+- Programmatic Thinking with Markdown.
+	- Edit, compile, test cycle.
+- What is a "text"? Notional "work" *versus* concrete instantiation
+
+### Project Work
+
+- Create your personal Git repository and add your current work to it.
+- Do a `git commit` without the `-m` flag; get dropped into `vim`; type a comment, save, and exit `vim`.
+- Create a `README.md` file.
+	- Include at least two levels of headings, some italicized text, and at least one hyperlink.
+	- Be able to distinguish which of these involve *semantic* markup and which involve *procedural* markup
+	- (This `README.md` will ultimately be the documentation for your course project.)
+- Join a class GitHub repository of files for later in the course; clone to your computer.
+- Create a new GitHub repository; attach your personal repository to it; push; add the instructor as a collaborator.
+- (From this point on, all work will be saved in GitHub)
 
 ## Attendance policy:
 
