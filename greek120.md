@@ -25,6 +25,7 @@ Students are expected to be *collegial*:
 
 (Newer assignment appear at the top)
 
+- For **Tuesday, January 28**: Add vocabulary and forms to your data in order to get a good automated parsing of file `unit5a.txt`. Analyze the file in EZ-Morh with `analyzeFile("unit5a")`.
 - For **Monday, January 28**: Do Drill III(a, b) on p. 133 of H&Q. You have done some of this before, but (b) asks you to change the *number*. Read Chapter 5, section 44, on p. 125 carefully. Bring your laptop to class, ideally with the VM booted and logged into.
 - For **Friday, January 25**: Study for a quiz on the types of consonants: *labial*, *palatal*, *dental*. Also, the **orthogonal categories**: *unvoiced*, *voiced*, *aspirated*. And finally, the *liquids*, the *nasals*, and the *doubles*. Of the Greek consonants, be able to categorize each one: π, β, φ, ψ, κ, γ, φ, ξ, τ, δ, θ, λ, μ, ν, ρ, ζ. See [this [page](https://ancientgreek.pressbooks.com/chapter/2/).
 - For **Thursday, January 24**: Study for a **quiz** on the six principal parts of of πράττω and πείθω (also know what those verbs mean!).
