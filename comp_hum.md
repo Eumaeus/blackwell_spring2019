@@ -35,6 +35,20 @@ Students are expected to be *collegial*:
 
 (Newer assignment appear at the top)
 
+- For **Monday, February 4**:
+	- Create a new GitHub repository, check it out into your VM, make GitHub user "Eumaeus" a collaborator.
+	- Know these POSIX commands and how to use them:
+		- `wc` with the `-l`, `-w` flags
+		- `less` and how to get out of it
+		- `nl`, how to invoke it, and how to export its results to a new file with `>`.
+		- `pwd`
+	- Know about SBT and that it is a "programming environment". Know that it implements the Scala language.
+	- Know how to start up SBT and do basic arithmetic.
+	- Know how to *name a value* in Scala. Know how to *name a value and assign it to a type* in Scala.
+		- Types you care about: `Int`, `String`, `Boolean`, `Vector[String]`, `Vector[Int]`.
+		- Know how to discover the *methods* of a type (type, *e.g.* `myString.` and hit `<tab>`).
+		- Know how to get help with Scala stuff. E.g. <https://www.scala-lang.org/api/current/scala/collection/immutable/StringOps.html>.
+
 - For **Wednesday, January 30**:
 	- Come to class with a working VM.
 	- Know how to log into the VM, navigate to where your work is, log out, and quit the VM.
