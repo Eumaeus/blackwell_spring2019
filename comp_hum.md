@@ -51,7 +51,8 @@ Students are expected to be *collegial*:
 	- Know how to *name a value* in Scala (`val myNumber = 3`). Know how to *name a value and assign it to a type* in Scala (`val myNumber:Int = 3`).
 		- Types you care about: `Int`, `String`, `Boolean`, `Vector[String]`, `Vector[Int]`.
 		- Know how to discover the *methods* of a type (type, *e.g.* `myString.` and hit `<tab>`).
-		- Know how to get help with Scala stuff. E.g. <https://www.scala-lang.org/api/current/scala/collection/immutable/StringOps.html>.
+		- Know how to get help with Scala stuff. E.g. <https://www.scala-lang.org/api/current/scala/collection/immutable/StringOps.html> and <https://www.scala-lang.org/api/2.12.2/scala/Int.html>.
+		- **Come to class with some operation on a String or Int that you found interesting.**
 
 
 - For **Wednesday, January 30**:
