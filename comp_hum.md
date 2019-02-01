@@ -44,10 +44,15 @@ Students are expected to be *collegial*:
 		- `pwd`
 	- Know about SBT and that it is a "programming environment". Know that it implements the Scala language.
 	- Know how to start up SBT and do basic arithmetic.
-	- Know how to *name a value* in Scala. Know how to *name a value and assign it to a type* in Scala.
+		- (In the VM) `cd /vagrant/workspace2019`
+		- `sbt console`
+		- `2 + 2`
+		- Quit SBT with `:quit`
+	- Know how to *name a value* in Scala (`val myNumber = 3`). Know how to *name a value and assign it to a type* in Scala (`val myNumber:Int = 3`).
 		- Types you care about: `Int`, `String`, `Boolean`, `Vector[String]`, `Vector[Int]`.
 		- Know how to discover the *methods* of a type (type, *e.g.* `myString.` and hit `<tab>`).
 		- Know how to get help with Scala stuff. E.g. <https://www.scala-lang.org/api/current/scala/collection/immutable/StringOps.html>.
+
 
 - For **Wednesday, January 30**:
 	- Come to class with a working VM.
