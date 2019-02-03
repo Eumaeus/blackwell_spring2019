@@ -27,7 +27,7 @@ Students are expected to be *collegial*:
 
 (Newer assignment appear at the top)
 
-- For **Monday, February 4**: For a *quiz* I will ask you to translate the first  sentence of Exercise I on p. 135: "καὶ χρυσὸς καὶ ἄργυρος…". I will ask you to identify the forms of all verbs in those sentences: ἐπέμφθησαν, θύσειαν, ἐπέπαυτο. For homework, find the CITE URNs for the *LSJ* entries for the following words: βλάπτω, ἵππος, παύω, πείθω. Make a list of word + URN, print it out, and hand it in.
+- For **Monday, February 4**: For a *quiz* I will ask you to translate the first  sentence of Exercise I on p. 135: "καὶ χρυσὸς καὶ ἄργυρος…". I will ask you to identify the forms of all verbs in those sentences: ἐπέμφθησαν, θύσειαν, ἐπέπαυτο. For homework, find the CITE URNs for the [*LSJ* entries](http://folio2.furman.edu/lsj/) for the following words: βλάπτω, ἵππος, παύω, πείθω. Make a list of word + URN, print it out, and hand it in.
 - For **Thursday, January 31**: Have all forms analyzed for files `unit5a.txt` and `unit5b.txt`. We will walk through producing a MS Word document in class, since it has been a while, but the MS Word output for both of those is due, as a quiz grade, at the end of class.
 - For **Tuesday, January 29**: Add vocabulary and forms to your data in order to get a good automated parsing of file `unit5a.txt`. Analyze the file in EZ-Morh with `analyzeFile("unit5a")`.
 - For **Monday, January 28**: Do Drill III(a, b) on p. 133 of H&Q. You have done some of this before, but (b) asks you to change the *number*. Read Chapter 5, section 44, on p. 125 carefully. Bring your laptop to class, ideally with the VM booted and logged into.
