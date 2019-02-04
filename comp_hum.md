@@ -35,6 +35,18 @@ Students are expected to be *collegial*:
 
 (Newer assignment appear at the top)
 
+- For **Wednesday, February 6**:
+	- Download a text to work with. Duplicated it and keep one copy unchanged in case you need it later.
+	- With the copy of your text, in Atom, remove any *paratext* or *metadata*.
+	- Edit your copy of `work.sc` so it:
+		- Loads the text into a `Vector` of type `String`.
+	- Read [this page on CTS URNs](http://cite-architecture.org/ctsurn/). For your text, answer the following questions:
+		- Who is its author?
+		- What is the original language of composition?
+		- If it is a translation or a work in another language, who translated it, and into what language?
+		- What is the work's title?
+		- What *edition* do you have?
+		- What are the *natural divisions* of the work?
 - For **Monday, February 4**:
 	- Create a new GitHub repository, check it out into your VM, make GitHub user "Eumaeus" a collaborator.
 	- Know these POSIX commands and how to use them:
