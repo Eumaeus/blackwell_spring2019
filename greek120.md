@@ -27,6 +27,12 @@ Students are expected to be *collegial*:
 
 (Newer assignment appear at the top)
 
+- For **Friday, February 8** (no class on February 7): Study declension of the verbs listed below; read or review the remaining sentences from Unit 5 (in the files `unit5a.txt`, `unit5b.txt`, `unit5c.txt`. Be prepared to answer some questions about the sentences, and to *produce* the forms of these nouns *with the correct definite article*. This is a big studying assignment:
+	- ὁ φύλαξ (guard)
+	- ὁ αἴξ (goat)
+	- ἡ ἐλπίς (hope)
+	- ἡ χάρις (grace)
+	- τὸ σῶμα (body)
 - For **Tuesday, February 5**: For a *quiz* I will ask you to translate Exercise Sentence 8 ("εἰ βλάπτοιντο οἱ ἐν…") and 9 ("εἰ ἐβλάβης ὑπὸ τοῦ διδασκάλου…"), being able to parse all verbs and identify the kind of conditional sentences these are.
 - For **Monday, February 4**: For a *quiz* I will ask you to translate the first  sentence of Exercise I on p. 135: "καὶ χρυσὸς καὶ ἄργυρος…". I will ask you to identify the forms of all verbs in those sentences: ἐπέμφθησαν, θύσειαν, ἐπέπαυτο. For homework, find the CITE URNs for the [*LSJ* entries](http://folio2.furman.edu/lsj/) for the following words: βλάπτω, ἵππος, παύω, πείθω. Make a list of word + URN, print it out, and hand it in.
 - For **Thursday, January 31**: Have all forms analyzed for files `unit5a.txt` and `unit5b.txt`. We will walk through producing a MS Word document in class, since it has been a while, but the MS Word output for both of those is due, as a quiz grade, at the end of class.

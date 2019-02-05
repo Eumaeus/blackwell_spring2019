@@ -40,6 +40,7 @@ Students are expected to be *collegial*:
 	- With the copy of your text, in Atom, remove any *paratext* or *metadata*.
 	- Edit your copy of `work.sc` so it:
 		- Loads the text into a `Vector` of type `String`.
+	- Read the [first paragraph of this Wikipedia article on "Functional Programming"](https://en.wikipedia.org/wiki/Functional_programming).
 	- Read [this page on CTS URNs](http://cite-architecture.org/ctsurn/). For your text, answer the following questions:
 		- Who is its author?
 		- What is the original language of composition?
