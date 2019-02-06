@@ -35,6 +35,15 @@ Students are expected to be *collegial*:
 
 (Newer assignment appear at the top)
 
+- For **Friday, February 8**:
+	- Know how to:
+		- Boot your VM
+		- Navigate to the correct working directory
+		- Do a `git pull`
+		- Start `sbt console`
+		- Load your script
+		- Reset and reload your script
+	- Come ready to work.
 - For **Wednesday, February 6**:
 	- Download a text to work with. Duplicated it and keep one copy unchanged in case you need it later.
 	- With the copy of your text, in Atom, remove any *paratext* or *metadata*.
