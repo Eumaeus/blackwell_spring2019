@@ -27,6 +27,7 @@ Students are expected to be *collegial*:
 
 (Newer assignment appear at the top)
 
+- For **Monday, February 11**: Write out to hand in *translations* of the sentences in the files `unit5a.txt`, `unit5b.txt`, `unit5c.txt`. Do Drill III on pp.156-157 of H&Q.
 - For **Friday, February 8** (no class on February 7): Study declension of the verbs listed below; read or review the remaining sentences from Unit 5 (in the files `unit5a.txt`, `unit5b.txt`, `unit5c.txt`. Be prepared to answer some questions about the sentences, and to *produce* the forms of these nouns *with the correct definite article*. This is a big studying assignment:
 	- ὁ φύλαξ (guard)
 	- ὁ αἴξ (goat)
