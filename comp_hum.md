@@ -36,6 +36,7 @@ Students are expected to be *collegial*:
 (Newer assignment appear at the top)
 
 - For **Wednesday, Februry 13**:
+	- See <https://github.com/Eumaeus/vm_Spring_2019/blob/master/docs/git.md>
 	- GIT Stuff
 		- Get a classmate with whom to collaborate
 		- Make each other contributers to your GitHub repo using the website.
