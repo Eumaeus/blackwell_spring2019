@@ -35,6 +35,31 @@ Students are expected to be *collegial*:
 
 (Newer assignment appear at the top)
 
+- For **Wednesday, Februry 13**:
+	- GIT Stuff
+		- Get a classmate with whom to collaborate
+		- Make each other contributers to your GitHub repo using the website.
+		- Each of you create a file in your directory, using `touch sharing_YOURNAME.txt`
+		- Add some text to that file in Atom.
+		- `git add sharing_YOURNAME.txt`
+		- `git commit -m "message"`
+		- `git push`
+		- Get your buddy's changes with `git pull`.
+	- Programming
+		- The difference between a `char` and a `string`
+		- How to get a `char` to be a `string`
+		- The idea of *refactoring* (making code tighter and tidier)
+		- *Refactor* a block of code
+		- *Tokenizing*: Splitting up a text.
+			- Tokenize with `.toVector`
+			- Tokenize with `.split(" ")`
+			- Tokenize with a *regular expression*.
+- For **Monday, February 11**:
+	- Terms:
+		- `.map` (do something to every thing in a collection)
+		- `.filter` (pull out certain members of a collection)
+		- *tuple* (a package of two pieces of data)	
+	- Create a Scala String: `val myStr:String = s"Hi, ${aName}"`
 - For **Friday, February 8**:
 	- Know how to:
 		- Boot your VM
