@@ -35,7 +35,14 @@ Students are expected to be *collegial*:
 
 (Newer assignment appear at the top)
 
-- For **Wednesday, Februry 13**:
+- For **Friday, Fectuary 15**:
+	- Take what we learned about `Map()` to make a Map that gives access to the Roman numbers, 1 - 20.
+	- Know a short definition of "histogram" (see <https://en.wikipedia.org/wiki/Histogram>).
+	- In your working script, do the following:
+		- Create a `string` of some length, in some language.
+		- Turn it into a `Vector[Char]`.
+		- Create a histogram showing the frequency of various characters.
+- For **Wednesday, February 13**:
 	- See <https://github.com/Eumaeus/vm_Spring_2019/blob/master/docs/git.md>
 	- GIT Stuff
 		- Get a classmate with whom to collaborate
