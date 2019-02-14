@@ -27,6 +27,7 @@ Students are expected to be *collegial*:
 
 (Newer assignment appear at the top)
 
+- For **Friday, February 15**: Study for a quiz on identifying the forms of the relative pronoun. Read the remaining sentences in Drill IV, 1-5, on p. 157.
 - For **Thursday, February 14**: Write out translations of Drill IV, 1-5, on p. 157. There will be a **quiz** on indentifying nouns (case, number, and gender) and verbs (tense, voice, person, number, mood) for those five sentences.
 - For **Tuesday, February 12**: Do Drill I on page 156.
 - For **Monday, February 11**: Write out to hand in *translations* of the sentences in the files `unit5a.txt`, `unit5b.txt`, `unit5c.txt`. Do Drill III on pp.156-157 of H&Q.
