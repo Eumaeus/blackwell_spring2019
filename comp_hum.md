@@ -35,7 +35,8 @@ Students are expected to be *collegial*:
 
 (Newer assignment appear at the top)
 
-- For **Friday, Fectuary 15**:
+- For **Monday, February 17**: Generate a *word histogram* for your text. Get some statistics from it and figure out how to present them on the screen when you run your script.
+- For **Friday, February 15**:
 	- Take what we learned about `Map()` to make a Map that gives access to the Roman numbers, 1 - 20.
 	- Know a short definition of "histogram" (see <https://en.wikipedia.org/wiki/Histogram>).
 	- In your working script, do the following:
