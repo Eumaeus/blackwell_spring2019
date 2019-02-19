@@ -27,7 +27,8 @@ Students are expected to be *collegial*:
 
 (Newer assignment appear at the top)
 
-- For **Tuesday, February 19**: Complete a translation-alignment for *Odyssey* 9.102-9.115.
+- For **Thursday, February 21**: Be able to read the Greek of *Odysssey* 9.102–9.115.
+- For **Tuesday, February 19**: Complete a translation-alignment for *Odyssey* 9.105-9.115.
 - For **Monday, February 18**: Using [this text](http://folio2.furman.edu/odyssey.txt) [Ugarit](http://ugarit.ialigner.com), the [LSJ](http://folio2.furman.edu/lsj/), and [the online text of the *Odyssey* at the University of Chicago](http://artflsrv02.uchicago.edu/cgi-bin/perseus/citequery3.pl?query=Hom.+Od.+9.105&dbname=GreekFeb19), do an alignment of *Odyssey* 9.105-9.109. Pick *one Greek word* from that section and read its LSJ entry closely. Have something to say about it.
 - For **Friday, February 15**: Study for a quiz on identifying the forms of the relative pronoun. Read the remaining sentences in Drill IV, 1-5, on p. 157. Bring a laptop.
 - For **Thursday, February 14**: Write out translations of Drill IV, 1-5, on p. 157. There will be a **quiz** on indentifying nouns (case, number, and gender) and verbs (tense, voice, person, number, mood) for those five sentences.
