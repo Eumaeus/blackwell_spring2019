@@ -33,6 +33,7 @@ So spake Sarpedon, and Tlepolemus lifted on high his ashen spear, and the long s
 
 *Iliad* 6.405–6.420
 
+```
 Ἀνδρομάχη δέ οἱ ἄγχι παρίστατο δάκρυ χέουσα,
 ἔν τʼ ἄρα οἱ φῦ χειρὶ ἔπος τʼ ἔφατʼ ἔκ τʼ ὀνόμαζε·
 δαιμόνιε φθίσει σε τὸ σὸν μένος, οὐδʼ ἐλεαίρεις
@@ -49,6 +50,7 @@ So spake Sarpedon, and Tlepolemus lifted on high his ashen spear, and the long s
 ἀλλʼ ἄρα μιν κατέκηε σὺν ἔντεσι δαιδαλέοισιν
 ἠδʼ ἐπὶ σῆμʼ ἔχεεν· περὶ δὲ πτελέας ἐφύτευσαν
 νύμφαι ὀρεστιάδες κοῦραι Διὸς αἰγιόχοιο.
+```
 
 ### Murray (1919)
 
@@ -62,6 +64,7 @@ Andromache came close to his side weeping, and clasped his hand and spake to him
 
 *Iliad* 9.200–9.224
 
+```
 ὣς φάτο, Πάτροκλος δὲ φίλῳ ἐπεπείθεθʼ ἑταίρῳ.
 αὐτὰρ ὅ γε κρεῖον μέγα κάββαλεν ἐν πυρὸς αὐγῇ,
 ἐν δʼ ἄρα νῶτον ἔθηκʼ ὄϊος καὶ πίονος αἰγός,
@@ -82,7 +85,7 @@ Andromache came close to his side weeping, and clasped his hand and spake to him
 αὐτὰρ ἐπεὶ πόσιος καὶ ἐδητύος ἐξ ἔρον ἕντο,
 νεῦσʼ Αἴας Φοίνικι· νόησε δὲ δῖος Ὀδυσσεύς,
 πλησάμενος δʼ οἴνοιο δέπας δείδεκτʼ Ἀχιλῆα·
-
+```
 
 ### Murray (1919)
 
