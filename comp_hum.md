@@ -36,7 +36,7 @@ Students are expected to be *collegial*:
 (Newer assignment appear at the top)
 
 - **MIDTERM CHALLENGE**: For **Monday after Spring Break**. See [this page](texts/midterm_project.md).
-
+- For **Monday, February 25**: Push into your repo a script that spell-checks your text. This will be a quiz grade: successfully pushing a file named `spellcheck.sc` = B; something that runs without error and does *something* = A-; something that at least processes your text = A.
 - For **Wednesday, February 20**: Read [the Wikipedia article on Zipf's Law](https://en.wikipedia.org/wiki/Zipf%27s_law). Come to class able to write a one, two, or three sentence definition of Zipf's Law. Think about how you might test your text to see if Zipf's Law applies. **Also** be able to tell me how you would convert your word-histogram (type `Vector[(String, Int)])`) to a `Vector[String]` using `.map`. Tell me how to reduce your word-histogram to a Vector that includes *only* words that occur *once*.
 - For **Monday, February 18**: Generate a *word histogram* for your text. Get some statistics from it and figure out how to present them on the screen when you run your script.
 - For **Friday, February 15**:
