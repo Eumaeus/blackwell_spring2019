@@ -27,7 +27,7 @@ Students are expected to be *collegial*:
 
 (Newer assignment appear at the top)
 
-- For **Monday, February 25**: Work on alignment of your passage. Start with looking for *nominatives* (singular and plural), and *finite verbs*. For morphology, here are links to the online text: [*Iliad* 5.655–5.667](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0133%3Abook%3D5%3Acard%3D655), [*Iliad* 6.405–6.420](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0133%3Abook%3D6%3Acard%3D405), [*Iliad* 9.200–9.224](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0133%3Abook%3D9%3Acard%3D200).
+- For **Monday, February 25**: Work on alignment of your passage. Start with looking for *nominatives* (singular and plural), and *finite verbs*. For morphology, here are links to the online text: [*Iliad* 5.655–5.667](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0133%3Abook%3D5%3Acard%3D655), [*Iliad* 6.405–6.420](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0133%3Abook%3D6%3Acard%3D405), [*Iliad* 9.200–9.224](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0133%3Abook%3D9%3Acard%3D205).
 - For **Friday, February 22** and following days: Pick one of the passages from [this page](https://github.com/Eumaeus/blackwell_spring2019/blob/master/texts/homeric_passages.md) and work on alignment. Keep track of problems, questions, and issues. You will ultimately present this passage to the rest of the class.
 - For **Thursday, February 21**: Be able to read the Greek of *Odysssey* 9.102–9.115.
 - For **Tuesday, February 19**: Complete a translation-alignment for *Odyssey* 9.105-9.115.
