@@ -27,6 +27,8 @@ Students are expected to be *collegial*:
 
 (Newer assignment appear at the top)
 
+- For **Monday, March 11**: For the Monday after Spring Break, complete an alignment of your chosen passage. Be prepared for a *short written test*, in class, in which you answer some questions about your passage and its language. Be prepared to stand up before the class and give a short presentation on any four of the following words or phrases from your translation. This can be what the words mean (in a rich sense, from the Lexicon), morphology, how the grammar works, or how, perhaps, the words fit with the meter of the poem. **Fighting** ἁμαρτῇ, ἐκ χειρῶν, αὐχένα μέσσον, ἦλθʼ, νὺξ ἐκάλυψε, βεβλήκειν, ἄμυνεν, ἀντίθεον Σαρπηδόνα, δῖοι ἑταῖροι, οὔ τις, τοῖον γὰρ ἔχον πόνον. **Andromache** παρίστατο, δάκρυ χέουσα, ἔπος τʼ ἔφατʼ, ἐλεαίρεις, ἔσομαι, εἴη, οὐ … ἄλλη ἔσται, οὐδέ μοι ἔστι πατὴρ καὶ πότνια μήτηρ, ἀπέκτανε δῖος Ἀχιλλεύς, Θήβην ὑψίπυλον, ἔκτανεν, ἐπὶ σῆμʼ ἔχεεν, νύμφαι ὀρεστιάδες κοῦραι Διὸς αἰγιόχοιο. **Dining** ἐπεπείθεθʼ, ἔθηκʼ, ἔχεν Αὐτομέδων, τάμνεν δʼ ἄρα δῖος Ἀχιλλεύς, Μενοιτιάδης … ἰσόθεος, Ὀδυσσῆος θείοιο, νόησε δὲ δῖος Ὀδυσσεύς, πλησάμενος δʼ οἴνοιο δέπας.
+
 - For **Monday, February 25**: Work on alignment of your passage. Start with looking for *nominatives* (singular and plural), and *finite verbs*. For morphology, here are links to the online text: [*Iliad* 5.655–5.667](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0133%3Abook%3D5%3Acard%3D655), [*Iliad* 6.405–6.420](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0133%3Abook%3D6%3Acard%3D405), [*Iliad* 9.200–9.224](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0133%3Abook%3D9%3Acard%3D205).
 - For **Friday, February 22** and following days: Pick one of the passages from [this page](https://github.com/Eumaeus/blackwell_spring2019/blob/master/texts/homeric_passages.md) and work on alignment. Keep track of problems, questions, and issues. You will ultimately present this passage to the rest of the class.
 - For **Thursday, February 21**: Be able to read the Greek of *Odysssey* 9.102–9.115.
@@ -43,7 +45,7 @@ Students are expected to be *collegial*:
 	- ἡ χάρις (grace)
 	- τὸ σῶμα (body)
 - For **Tuesday, February 5**: For a *quiz* I will ask you to translate Exercise Sentence 8 ("εἰ βλάπτοιντο οἱ ἐν…") and 9 ("εἰ ἐβλάβης ὑπὸ τοῦ διδασκάλου…"), being able to parse all verbs and identify the kind of conditional sentences these are.
-- For **Monday, February 4**: For a *quiz* I will ask you to translate the first  sentence of Exercise I on p. 135: "καὶ χρυσὸς καὶ ἄργυρος…". I will ask you to identify the forms of all verbs in those sentences: ἐπέμφθησαν, θύσειαν, ἐπέπαυτο. For homework, find the CITE URNs for the [*LSJ* entries](http://folio2.furman.edu/lsj/) for the following words: βλάπτω, ἵππος, παύω, πείθω. Make a list of word + URN, print it out, and hand it in.
+- For **Monday, February 4**: For a *quiz* I will ask you to translate the first sentence of Exercise I on p. 135: "καὶ χρυσὸς καὶ ἄργυρος…". I will ask you to identify the forms of all verbs in those sentences: ἐπέμφθησαν, θύσειαν, ἐπέπαυτο. For homework, find the CITE URNs for the [*LSJ* entries](http://folio2.furman.edu/lsj/) for the following words: βλάπτω, ἵππος, παύω, πείθω. Make a list of word + URN, print it out, and hand it in.
 - For **Thursday, January 31**: Have all forms analyzed for files `unit5a.txt` and `unit5b.txt`. We will walk through producing a MS Word document in class, since it has been a while, but the MS Word output for both of those is due, as a quiz grade, at the end of class.
 - For **Tuesday, January 29**: Add vocabulary and forms to your data in order to get a good automated parsing of file `unit5a.txt`. Analyze the file in EZ-Morh with `analyzeFile("unit5a")`.
 - For **Monday, January 28**: Do Drill III(a, b) on p. 133 of H&Q. You have done some of this before, but (b) asks you to change the *number*. Read Chapter 5, section 44, on p. 125 carefully. Bring your laptop to class, ideally with the VM booted and logged into.
@@ -64,18 +66,18 @@ A freshman who exceeds 15% of the class meetings or an upperclassman who exceeds
 
 ## Academic integrity:
 
-Academic Integrity standards are important to our Furman community and will be upheld in this class.  Students should review the Academic Integrity Pledge posted in the classroom and resources available on <www.furman.edu/integrity>.  In this class, the grade penalty for an academic integrity violation is a reduction in grade in proportion to the gravity of the offense.
+Academic Integrity standards are important to our Furman community and will be upheld in this class. Students should review the Academic Integrity Pledge posted in the classroom and resources available on <www.furman.edu/integrity>. In this class, the grade penalty for an academic integrity violation is a reduction in grade in proportion to the gravity of the offense.
  
 Additional resources in the Center for Academic Success (CAS; LIB 002):
-The Writing & Media Lab (WML) is staffed by student Consultants who are trained to help you improve your writing and multimodal communication skills.  The consultation process is non-directive and intended to allow students to maintain ownership of their work.  In addition to helping with the nuts and bolts, WML Consultants also support you in developing your own ideas thoughtfully and critically, whether you’re writing an essay or planning a video or other multimedia project.  You may drop into the WML during its regular hours (LIB 002; 9 AM to 10 PM) or visit the Writing and Media Lab website to make an appointment online.
+The Writing & Media Lab (WML) is staffed by student Consultants who are trained to help you improve your writing and multimodal communication skills. The consultation process is non-directive and intended to allow students to maintain ownership of their work. In addition to helping with the nuts and bolts, WML Consultants also support you in developing your own ideas thoughtfully and critically, whether you’re writing an essay or planning a video or other multimedia project. You may drop into the WML during its regular hours (LIB 002; 9 AM to 10 PM) or visit the Writing and Media Lab website to make an appointment online.
  
 Professional Academic Assistance Staff in CAS can provide students assistance with time management, study skills, and organizational skills.
  
 The Writing and ESL Specialist provides professional writing support as well as support for students whose primary language is not English.
 
-## Accommodation Requests:  
+## Accommodation Requests: 
 
-The Student Office for Accessibility Resources is committed to helping qualified students with disabilities achieve their academic goals by providing reasonable academic accommodations under appropriate circumstances. If you have a disability and anticipate the need for an accommodation in order to participate in this class, please register with the Student Office for Accessibility Resources. They will assist you in getting the resources you may need to participate fully in this class.  You can contact the SOAR office at 864.294.2320 or at soar@furman.edu. You can find additional information and request academic accommodations at the SOAR webpage.
+The Student Office for Accessibility Resources is committed to helping qualified students with disabilities achieve their academic goals by providing reasonable academic accommodations under appropriate circumstances. If you have a disability and anticipate the need for an accommodation in order to participate in this class, please register with the Student Office for Accessibility Resources. They will assist you in getting the resources you may need to participate fully in this class. You can contact the SOAR office at 864.294.2320 or at soar@furman.edu. You can find additional information and request academic accommodations at the SOAR webpage.
 
 ## Other Resources
 
@@ -86,11 +88,11 @@ The Student Office for Accessibility Resources is committed to helping qualified
 
 ## Grading
 
-| Component     | Percentage |
+| Component | Percentage |
 |---------------|-----------:|
-| Quizzes       | 25%        |
-| Engagement    | 15%        |
-| Projects      | 20%        |
-| Midterm Exam  | 15%        |
-| Final Exam    | 25%        |
-| **Total**     | 100%       |
+| Quizzes | 25% |
+| Engagement | 15% |
+| Projects | 20% |
+| Midterm Exam | 15% |
+| Final Exam | 25% |
+| **Total** | 100% |
