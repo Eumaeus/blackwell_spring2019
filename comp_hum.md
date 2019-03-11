@@ -35,6 +35,10 @@ Students are expected to be *collegial*:
 
 (Newer assignment appear at the top)
 
+- For **The Week After Spring Break**: We want to start thinking about getting your text into a *machine-citable* form. Make a new Scala script in your repository. Be sure it includes the line `import edu.holycross.shot.cite._`, which imports a library for creating and using URNs. Play with the examples of URN manipulation [here](https://cite-architecture.github.io/xcite/ctsurn-quick/). Also the page on ["URN algebra"](https://cite-architecture.github.io/xcite/cts-algebra/). Finally, the [API docs](http://folio2.furman.edu/xciteAPI/edu/holycross/shot/cite/CtsUrn.html).
+
+
+
 - **MIDTERM CHALLENGE**: For **Monday after Spring Break**. See [this page](texts/midterm_project.md).
 - For **Monday, February 25**: Push into your repo a script that spell-checks your text. This will be a quiz grade: successfully pushing a file named `spellcheck.sc` = B; something that runs without error and does *something* = A-; something that at least processes your text = A.
 - For **Wednesday, February 20**: Read [the Wikipedia article on Zipf's Law](https://en.wikipedia.org/wiki/Zipf%27s_law). Come to class able to write a one, two, or three sentence definition of Zipf's Law. Think about how you might test your text to see if Zipf's Law applies. **Also** be able to tell me how you would convert your word-histogram (type `Vector[(String, Int)])`) to a `Vector[String]` using `.map`. Tell me how to reduce your word-histogram to a Vector that includes *only* words that occur *once*.
