@@ -182,6 +182,15 @@ Students are expected to be *collegial*:
 	- **Mac Users** Via the Mac App Store, download and install XCode. 
 	- **There will be a quiz on Wednesday**: You will open Atom, change the theme, take a screenshot of your Atom, and email it to me.
 
+## Module: Functional Work with Texts
+
+> Doing stuff that used to require looping but does not because we are in a functional language.
+
+- `.map`
+- `.filter`
+- `.sliding`
+- `.zipWithIndex`
+
 ## Module: The Vocabulary, Grammar, & Syntax of Computation
 
 ### Technical Skills
@@ -248,6 +257,8 @@ Students are expected to be *collegial*:
 - Join a class GitHub repository of files for later in the course; clone to your computer.
 - Create a new GitHub repository; attach your personal repository to it; push; add the instructor as a collaborator.
 - (From this point on, all work will be saved in GitHub)
+
+
 
 ## Attendance policy:
 
