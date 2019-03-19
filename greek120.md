@@ -27,6 +27,8 @@ Students are expected to be *collegial*:
 
 (Newer assignment appear at the top)
 
+- For **Thursday, March 21**: The adventurous can try using the [new alignment tool](http://folio2.furman.edu/ducat/?urn=urn:cts:greekLit:tlg0031.tlg003.kjv.tokens:2&urn=urn:cts:greekLit:tlg0031.tlg003.wh.tokens:2&urn=urn:cts:greekLit:tlg0031.tlg003.vulgate.tokens:2&urn=) to work on alignments for Luke 2.1-2.14.
+
 - For **Tuesday, March 18**: **Study for a quiz** the *present* and *imperfect* forms of **εἰμί** ("to be"), on pp. 673 and 674 of H&Q. **Write out to hand in** full and complete paradigms of the participle forms the verb **λύω**: present active, present middle/passive, future active, future middle/passive, aorist middle (for each, masculine, feminine, and neuter, nominative, genitive, dative, and accusative, singular and plural). The nominative singular forms can be found in H&Q on pp. 653, 655, 656, 657, and 659. 
 
 - For **Monday, March 17**: For Luke 2.1–2.3, look up every word. Know the *case, number,* and *gender* of every noun, article, and adjective. Know the *mood, voice, tense, [person],* and *[number]* of every verb. Find which verbs are present in the Principal Parts chart from the textbook, and which are not.
