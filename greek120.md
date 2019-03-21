@@ -27,6 +27,8 @@ Students are expected to be *collegial*:
 
 (Newer assignment appear at the top)
 
+- For **Friday, March 22**: Look up whatever you need to look up to align Luke 2.1-2.5. Work on your alignment using either Ugarit or the [new alignment tool](http://folio2.furman.edu/ducat/?urn=urn:cts:greekLit:tlg0031.tlg003.kjv.tokens:2&urn=urn:cts:greekLit:tlg0031.tlg003.wh.tokens:2&urn=urn:cts:greekLit:tlg0031.tlg003.vulgate.tokens:2&urn=). Be able to translate the text *or* ask intelligent questions about what is going on. There are four constructions you have not seen, and which we have not discussed, so you will have questions.
+
 - For **Thursday, March 21**: The adventurous can try using the [new alignment tool](http://folio2.furman.edu/ducat/?urn=urn:cts:greekLit:tlg0031.tlg003.kjv.tokens:2&urn=urn:cts:greekLit:tlg0031.tlg003.wh.tokens:2&urn=urn:cts:greekLit:tlg0031.tlg003.vulgate.tokens:2&urn=) to work on alignments for Luke 2.1-2.14. Study the *present participle* and *present infinitive* forms of **εἰμί**. Find examples of them in Luke 2.1-2.14. (The participle forms are on pp. 639 of the textbook. The infinitive is **εἶναι**.)
 
 - For **Tuesday, March 18**: **Study for a quiz** the *present* and *imperfect* forms of **εἰμί** ("to be"), on pp. 673 and 674 of H&Q. **Write out to hand in** full and complete paradigms of the participle forms the verb **λύω**: present active, present middle/passive, future active, future middle/passive, aorist middle (for each, masculine, feminine, and neuter, nominative, genitive, dative, and accusative, singular and plural). The nominative singular forms can be found in H&Q on pp. 653, 655, 656, 657, and 659. 
