@@ -27,7 +27,7 @@ Students are expected to be *collegial*:
 
 (Newer assignment appear at the top)
 
-- For **Monday, March 25**: Practice reading Luke 2.1-2.5 *without looking at the English*. Each of you is assigned a verb. Be prepared to tell the class everything about it on Monday: lexicon-form, principle parts, form, its subject, any objects, what it means. Be able to remember its *citation*… which Chapter and Verse it appears in.
+- For **Monday, March 25**: Practice reading Luke 2.1-2.5 *without looking at the English*. Each of you is assigned a verb. Be prepared to tell the class everything about it on Monday: lexicon-form, principle parts, form, its subject, any objects, what it means. Be able to remember its *citation*… which Chapter and Verse it appears in. You can use [this link](https://raw.githubusercontent.com/Eumaeus/blackwell_spring2019/master/texts/Luke2_1-2_5_all.cex), if it is helpful.
 
 - For **Friday, March 22**: Look up whatever you need to look up to align Luke 2.1-2.5. Work on your alignment using either Ugarit or the [new alignment tool](http://folio2.furman.edu/ducat/?urn=urn:cts:greekLit:tlg0031.tlg003.kjv.tokens:2&urn=urn:cts:greekLit:tlg0031.tlg003.wh.tokens:2&urn=urn:cts:greekLit:tlg0031.tlg003.vulgate.tokens:2&urn=). Be able to translate the text *or* ask intelligent questions about what is going on. There are four constructions you have not seen, and which we have not discussed, so you will have questions.
 
