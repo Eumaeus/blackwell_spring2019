@@ -59,6 +59,8 @@ Later:
 
 ## Notes & Logic
 
+There is a demo project online [here](https://github.com/Eumaeus/csc270_demo_project).
+
 I stick useful little code snippets in [my GitHub Gists](https://gist.github.com/Eumaeus). You are free to use those. Ask for help if you need it.
 
 Use the [API for CTS URNs](http://folio2.furman.edu/xciteAPI/edu/holycross/shot/cite/CtsUrn.html) and the [API for the OHCO2 Library](http://folio2.furman.edu/ohco2Api/edu/holycross/shot/ohco2/index.html).
