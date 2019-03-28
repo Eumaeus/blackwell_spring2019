@@ -27,7 +27,7 @@ Students are expected to be *collegial*:
 
 (Newer assignment appear at the top)
 
-- For **Friday, March 29**: Do the [practice sheet](texts/luke_practice.md) and be able to translate every sentence on it, knowing the morphological identity of all words.
+- For **Friday, March 29**: Do the [practice sheet](texts/luke_practice.md) and be able to translate every sentence on it, knowing the morphological identity of all words. Also, download to your computer [this file](texts/Luke_vocab1.cex).
 
 - For **Monday, March 25**: Practice reading Luke 2.1-2.5 *without looking at the English*. Each of you is assigned a verb. Be prepared to tell the class everything about it on Monday: lexicon-form, principle parts, form, its subject, any objects, what it means. Be able to remember its *citation*… which Chapter and Verse it appears in. You can use [this link](https://raw.githubusercontent.com/Eumaeus/blackwell_spring2019/master/texts/Luke2_1-2_5_all.cex), if it is helpful.
 
