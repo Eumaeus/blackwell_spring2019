@@ -41,6 +41,10 @@ By **Monday, April 1**:
 	- Be able to select a single passage or range of passages using your Corpus, `~~`, and a CtsUrn.
 	- Select a part
 
+By **Wednesday, April 3**:
+
+- Have a `htmlWriter.sc` script that uses the CiteLibrary API to generate a series of HTML pages for your text; these need to go in `html`. You can use `workspace2019/cite.sc` as the basis for this script.
+
 Later:
 
 - Write a script (`scripts/htmlWriter.sc`), that uses the CiteLibrary API to generate a series of HTML pages for your text; these need to go in `html`. You can use `workspace2019/cite.sc` as the basis for this script.
