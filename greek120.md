@@ -27,7 +27,7 @@ Students are expected to be *collegial*:
 
 (Newer assignment appear at the top)
 
-- For **Tuesday, April 2**: Be ready for a **quiz** on the works marked in the [this CEX file](texts/Luke_vocab1.cex): particles, the definite article, forms of οὗτος, ἕκαστος, and αὐτός, and prepositions.
+- For **Tuesday, April 2**: Be ready for a **quiz** on the works marked in the [this CEX file](texts/Luke_vocab1.cex): particles, the definite article, forms of οὗτος, ἕκαστος, and αὐτός, and prepositions. For future reference, [this tool](http://services.perseids.org/bsp/morphologyservice/analysis/word?lang=grc&engine=morpheusgrc&word=toi=si) might be helpful.
 
 - For **Friday, March 29**: Do the [practice sheet](texts/luke_practice.md) and be able to translate every sentence on it, knowing the morphological identity of all words. Also, download to your computer [this file](texts/Luke_vocab1.cex).
 
