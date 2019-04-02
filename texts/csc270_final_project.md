@@ -43,7 +43,11 @@ By **Monday, April 1**:
 
 By **Wednesday, April 3**:
 
-- Have a `htmlWriter.sc` script that uses the CiteLibrary API to generate a series of HTML pages for your text; these need to go in `html`. You can use `workspace2019/cite.sc` as the basis for this script.
+- Have a `htmlWriter.sc` script that uses the CiteLibrary API to generate a series of HTML pages for your text; these need to go in `html`. You can use `workspace2019/cite.sc` as the basis for this script. You can also look at the files in [my demo project](https://github.com/Eumaeus/csc270_demo_project).
+
+For **Friday, April 3**:
+
+- Be ready to show off your project's progress.
 
 Later:
 

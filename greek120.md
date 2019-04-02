@@ -27,6 +27,8 @@ Students are expected to be *collegial*:
 
 (Newer assignment appear at the top)
 
+- For **Thursday, April 4**: Quiz on article, particle, and adjective forms in Luke 2.1-2.14. Finish the aligment through 2.14, looking up whatever you have to look up.
+- **Wednesday, April 3, 5:30, Johns 101** Stanley Lombardo will be speaking. You should come if you can.
 - For **Tuesday, April 2**: Be ready for a **quiz** on the works marked in the [this CEX file](texts/Luke_vocab1.cex): particles, the definite article, forms of οὗτος, ἕκαστος, and αὐτός, and prepositions. For future reference, [this tool](http://sites.tufts.edu/perseusupdates/2012/11/01/morphology-service-beta/) might be helpful.
 
 - For **Friday, March 29**: Do the [practice sheet](texts/luke_practice.md) and be able to translate every sentence on it, knowing the morphological identity of all words. Also, download to your computer [this file](texts/Luke_vocab1.cex).
