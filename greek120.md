@@ -27,6 +27,7 @@ Students are expected to be *collegial*:
 
 (Newer assignment appear at the top)
 
+- For **Friday, April 5**: Read through Luke 2.14. Try reading from the Codex Sinaiticus, using [this view](http://www.codexsinaiticus.org/en/manuscript.aspx?book=35&chapter=2&lid=en&side=r&zoomSlider=0#) or [this view](http://www.csntm.org/Manuscripts/ManuscriptViewPage.aspx?id=202).
 - For **Thursday, April 4**: Quiz on article, particle, and adjective forms in Luke 2.1-2.14. Finish the aligment through 2.14, looking up whatever you have to look up. See what you can do with reading the text from [the oldest manuscript of it](http://www.codexsinaiticus.org/en/manuscript.aspx?book=35&chapter=2&lid=en&side=r&zoomSlider=0#35-1-80-7).
 - **Wednesday, April 3, 5:30, Johns 101** Stanley Lombardo will be speaking. You should come if you can.
 - For **Tuesday, April 2**: Be ready for a **quiz** on the works marked in the [this CEX file](texts/Luke_vocab1.cex): particles, the definite article, forms of οὗτος, ἕκαστος, and αὐτός, and prepositions. For future reference, [this tool](http://sites.tufts.edu/perseusupdates/2012/11/01/morphology-service-beta/) might be helpful.
