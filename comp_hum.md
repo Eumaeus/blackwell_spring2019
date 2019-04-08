@@ -35,7 +35,7 @@ Students are expected to be *collegial*:
 
 (Newer assignment appear at the top)
 
-- For **Wednesday, April 10**: Come to class able to announce the kind of analysis you would like to pursue. Some thoughts: Who talks? A "social network" graph of co-occurances of characters? A graph of where characters are mentioned? 
+- For **Wednesday, April 10**: Come to class able to announce the kind of analysis you would like to pursue. Some thoughts: Who talks? A "social network" graph of co-occurances of characters? A graph of where characters are mentioned? Some grammatical or lexical characteristic? Think about this, and be able to explain why it might be interesting to do this *distant reading* analysis. I can help you work on the details, which may require both processing your CEX file in Scala, and using some other software: Excel, [Gephi](https://gephi.org), *vel sim.*.
 
 <img src="texts/lesmis.png" width="600"/>
 
