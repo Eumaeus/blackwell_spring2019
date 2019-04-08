@@ -37,7 +37,7 @@ Students are expected to be *collegial*:
 
 - For **Wednesday, April 10**: Come to class able to announce the kind of analysis you would like to pursue. Some thoughts: Who talks? A "social network" graph of co-occurances of characters? A graph of where characters are mentioned? 
 
-<img src="lesmis.png" width="600"/>
+<img src="texts/lesmis.png" width="600"/>
 
 - You can play with [this online tool](https://www.wordclouds.com) for making word-clouds. Of what use are word-clouds? Here is a more programmer-y way: [jsFiddle](https://jsfiddle.net/plantface/g6faeurj/).
 - See [this page](texts/csc270_final_project.md) on the details of the final project.
