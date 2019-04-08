@@ -35,6 +35,10 @@ Students are expected to be *collegial*:
 
 (Newer assignment appear at the top)
 
+- For **Wednesday, April 10**: Come to class able to announce the kind of analysis you would like to pursue. Some thoughts: Who talks? A "social network" graph of co-occurances of characters? A graph of where characters are mentioned? 
+
+<img src="lesmis.pnd" width="600"/>
+
 - You can play with [this online tool](https://www.wordclouds.com) for making word-clouds. Of what use are word-clouds? Here is a more programmer-y way: [jsFiddle](https://jsfiddle.net/plantface/g6faeurj/).
 - See [this page](texts/csc270_final_project.md) on the details of the final project.
 - For **Wednesday, March 27**: Play with `cite.sc` in the VM. By default it will (after you do a `git pull`) work with a "corpus" consisting of three versions of the Gospel of John (English, Spanish, and Greek). You can also play with it in [the CiteApp](http://folio.furman.edu/cite.html). With reference to the [API for CTS URNs](http://folio2.furman.edu/xciteAPI/edu/holycross/shot/cite/CtsUrn.html) and the [API for the OHCO2 Library](http://folio2.furman.edu/ohco2Api/edu/holycross/shot/ohco2/index.html), play with the `cite.sc` script to see how you might manipulate a text. Can you… select (and print out) just Chapter 2 of John? Can you print out ten lines at a time? Can you find Catalog Info for a version of the text? Aim your thinking at how you might use this library to *generate* a *series* of files containing your text—chapter-by-chapter, or by some other chunk.

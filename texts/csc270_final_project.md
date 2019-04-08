@@ -58,6 +58,8 @@ Later:
 	- A string search.
 	- A token search.
 	- An example of an N-Gram analysis.
+	- A visualization of where characters appear.
+
 - Document your work in `README.md`:
 	- Your text and its source.
 	- Why someone might care about your text.
