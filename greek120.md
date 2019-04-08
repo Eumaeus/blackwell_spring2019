@@ -25,6 +25,8 @@ Students are expected to be *collegial*:
 
 [Online Lexicon](http://folio2.furman.edu/lsj/)
 
+[Fully aligned Nativity Narrative from Luke](https://raw.githubusercontent.com/Eumaeus/blackwell_spring2019/master/texts/luke_nativity.cex). Use [this URL](http://folio2.furman.edu/ducat/?urn=urn:cts:greekLit:tlg0031.tlg003.kjv.tokens:2.10-2.14&urn=urn:cts:greekLit:tlg0031.tlg003.wh.tokens:2.10-2.14&urn=)
+
 (Newer assignment appear at the top)
 
 - For **Thursday, April 11**: Download [this file](https://raw.githubusercontent.com/Eumaeus/blackwell_spring2019/master/texts/candaules.cex) as *plain text*, and save it somewhere on your computer. Go to [this link](http://folio2.furman.edu/ducat/?urn=urn:cts:greekLit:tlg0016.tlg001.grc.token:1.8&urn=urn:cts:greekLit:tlg0016.tlg001.eng.token:1.8&urn=) in your browser, and use the "Choose file" button to load the file "candaules.cex" that you just downloaded. You can find morphological and lexical help with this passage [here](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0125%3Abook%3D1%3Achapter%3D8). **Work on aligning nominative nounds, pronouns, adjectives, and participles, and finite verbs.** Review the participle endings in H&Q, particularly the *aorist active* forms on p.659, and the *aorist passive* forms on p. 662. Finally, note the following Herdotean forms: "οἱ" in Hdt. is "to him", and "ὦν" is his way of writing "οὖν", "and so".
