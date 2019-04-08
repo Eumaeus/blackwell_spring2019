@@ -27,7 +27,7 @@ Students are expected to be *collegial*:
 
 (Newer assignment appear at the top)
 
-- For **Thursday, April 11**: 
+- For **Thursday, April 11**: Download [this file](https://raw.githubusercontent.com/Eumaeus/blackwell_spring2019/master/texts/candaules.cex) as *plain text*, and save it somewhere on your computer. Go to [this link](http://folio2.furman.edu/ducat/?urn=urn:cts:greekLit:tlg0016.tlg001.grc.token:1.8&urn=urn:cts:greekLit:tlg0016.tlg001.eng.token:1.8&urn=) in your browser, and use the "Choose file" button to load the file "candaules.cex" that you just downloaded. You can find morphological and lexical help with this passage [here](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0125%3Abook%3D1%3Achapter%3D8). **Work on aligning nominative nounds, pronouns, adjectives, and participles, and finite verbs.** Review the participle endings in H&Q, particularly the *aorist active* forms on p.659, and the *aorist passive* forms on p. 662. Finally, note the following Herdotean forms: "οἱ" in Hdt. is "to him", and "ὦν" is his way of writing "οὖν", "and so".
 
 - For **Friday, April 5**: Read through Luke 2.14. Try reading from the Codex Sinaiticus, using [this view](http://www.codexsinaiticus.org/en/manuscript.aspx?book=35&chapter=2&lid=en&side=r&zoomSlider=0#) or [this view](http://www.csntm.org/Manuscripts/ManuscriptViewPage.aspx?id=202).
 - For **Thursday, April 4**: Quiz on article, particle, and adjective forms in Luke 2.1-2.14. Finish the aligment through 2.14, looking up whatever you have to look up. See what you can do with reading the text from [the oldest manuscript of it](http://www.codexsinaiticus.org/en/manuscript.aspx?book=35&chapter=2&lid=en&side=r&zoomSlider=0#35-1-80-7).
