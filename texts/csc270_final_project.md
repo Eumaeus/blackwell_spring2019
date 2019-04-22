@@ -20,8 +20,44 @@ my_repo/
 │   └── my.css
 └── scripts
     ├── analysis.sc
-    └── htmlWriter.sc
+    ├── htmlWriter.sc
+    └── [README_analysis.sc]
+
 ~~~
+
+## Final Deliverables
+
+**Due Tuesday, May 7.** I will do a `git pull` on each of your repos at 5:00 on Tuesday, and evaluate whatever I see there. The essay part of the exam you can email me as a Markdown, MS Word, Pages, or PDF file; get that to me by 5:00 on Tuesday, May 7.
+
+### Mandatory Pieces
+
+- A README.md file, in good Markdown, that explains the contents of this repository and how to use those contents. Remember that *the whole world and everyone in it* can see this. Describe your repository as clearly and comprehensively as possible. You can assume a the your readers know how to use Git and GitHub.
+- An HTML version of your text with CSS that goes with it.
+- A CEX version of your text.
+- **A Reflective Essay**: 500–1000 words. You are writing to someone you have not met. 
+	- Describe briefly your academic major and why you chose that (2-3 sentences max).
+	- Ennumerate the skills, tools, and concepts your learned this semester. Don't under-sell yourself (but don't lie wildly either). Be as specific and accurate as you can. It can be effective to toss in links when you mention specific tools, like [Scala](https://www.scala-lang.org).
+	- After the specific enumeration, devote a couple of sentences to higher-level thinking and abstraction. Computer stuff is complicated, in its details, but if you can boild things down, you will seem like you know what you are talking about. Hints: 
+		- Note that whatever we did, we always started with a Collection (Vector in our case).
+		- Remember the two things you can do to a Collection of data-objects.
+		- Remember the one and only thing a computer can do. Remember that humans are not good at this thing. 
+		- You can use the technical term "closure" to describe the `.map` and `.filter` methods you've written.
+	- The best essay will then explain how these skills and techniques will make you *better* at what you want to do.
+	- It is perfectly okay to focus on Computer OS level stuff, if that is where you can make the best argument; or the design work you did in CSS, or whatever. This  is *practice* for how you will be successful at selling yourself and this little part of your experience.
+
+### Optional Pieces that can Count
+
+The Mandatory Pieces will earn a passing grade of some sort. For more than a minimally passing grade, include one or more of the following (their presence *and* quality will count, of course):
+
+- `analysis.sc` A script that reads your CEX into a CITE Library with a TextRepository ( = Catalog + Corpus ), and performs some kind of analysis or visualization, reporting the results. A very good version of this script will:
+	- Have desciptive comments in the code
+	- Be described in your (optional) README_analysis.md file (see above), perhaps with links to sources (reading scores, or whatever)
+- Discussion of *why* your analysis might be interesting, and *what its limitations are*. 
+- Discussion of *how you can have confidence in the results of your analysis*.
+
+### Overall Assessment
+
+I will grade these with an open mind. Your interpretive essay will *go a long way* toward shaping the criteria I apply to the rest of your work. If you are clear and persuasive in that essay, and whatever else you have done serves to illustrate that, you will earn the hightest grade. I will pay attention to the *professionalism* of your repo. Clean it up. Make the README.md files look good. Remove extra stuff (I can help with that if you need help… deleting stuff from Git can be tricky).
 
 ## What You Are Assigned to Do
 
