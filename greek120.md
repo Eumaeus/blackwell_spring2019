@@ -21,6 +21,16 @@ Students are expected to be *collegial*:
 - Generous with help, praise, enthusiasm.
 - Stingy with blame.
 
+## Final Exam
+
+The final exam will have three parts.
+
+The first will be **in class** on **Tuesday, April 30.** It will be an in-class test. You will receive some passages of Greek and be asked questions about them. To study, review our work on **Luke 2** and **Herodotus 1.8**. Be prepared to identify nounds in different cases, to identify verbs, and to talk about short phrases and the relationship between the Greek and an aligned translation.
+
+The second will be due **by email on Tuesday, April 7, 5:00 pm.** It will be **your own alignment of Herodotus 1.9-1.10**. Use [this link](http://folio2.furman.edu/ducat/?urn=urn:cts:greekLit:tlg0016.tlg001.grc.token:1.9-1.10&urn=urn:cts:greekLit:tlg0016.tlg001.eng.token:1.9-1.10&urn=) and load [this file](https://raw.githubusercontent.com/Eumaeus/blackwell_spring2019/master/texts/candaules.cex). When you have done an alignment, download the resulting CEX file, name it "YOUR_NAME_herodotus.cex" and email it to me. Doing that correctly is part of the assignment.
+
+The third will also be due **by email on Tuesday, April 7, 5:00 pm.** It will consist of about two pages of typing in response to some short essay-style questions about Greek, how it works, and how you work with it. You will receive these questions on **Tuesday, April 30.** 
+
 ## Specific Assignments
 
 [Online Lexicon](http://folio2.furman.edu/lsj/)
