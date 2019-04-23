@@ -33,7 +33,7 @@ List of links:
 - [CWB's Alignment File for Luke](https://raw.githubusercontent.com/Eumaeus/blackwell_spring2019/master/texts/luke_nativity-all.cex)
 - [URL for Herodotus 1.8](http://folio2.furman.edu/ducat/?urn=urn:cts:greekLit:tlg0016.tlg001.grc.token:1.8&urn=urn:cts:greekLit:tlg0016.tlg001.eng.token:1.8&urn=)
 - [CWB's Alignment File for Herodotus 1.8](https://raw.githubusercontent.com/Eumaeus/blackwell_spring2019/master/texts/candaules_1_8_complete.cex)
-- [URL for Herodotus 1.9–1.10](Use [this link](http://folio2.furman.edu/ducat/?urn=urn:cts:greekLit:tlg0016.tlg001.grc.token:1.9-1.10&urn=urn:cts:greekLit:tlg0016.tlg001.eng.token:1.9-1.10&urn=)
+- [URL for Herodotus 1.9–1.10](http://folio2.furman.edu/ducat/?urn=urn:cts:greekLit:tlg0016.tlg001.grc.token:1.9-1.10&urn=urn:cts:greekLit:tlg0016.tlg001.eng.token:1.9-1.10&urn=)
 - [Blank Alignment file for Herodotus 1.9–1.10](https://raw.githubusercontent.com/Eumaeus/blackwell_spring2019/master/texts/candaules.cex)
 
 The second will be due **by email on Tuesday, May 7, 5:00 pm.** It will be **your own alignment of Herodotus 1.9-1.10**. Use [this link](http://folio2.furman.edu/ducat/?urn=urn:cts:greekLit:tlg0016.tlg001.grc.token:1.9-1.10&urn=urn:cts:greekLit:tlg0016.tlg001.eng.token:1.9-1.10&urn=) and load [this file](https://raw.githubusercontent.com/Eumaeus/blackwell_spring2019/master/texts/candaules.cex). When you have done an alignment, download the resulting CEX file, name it "YOUR_NAME_herodotus.cex" and email it to me. Doing that correctly is part of the assignment. Do not forget that you can look up words in the [Lexicon](http://folio2.furman.edu/lsj/) or by using the [Perseus tools](http://www.perseus.tufts.edu/hopper/text?doc=Hdt.+1.9&fromdoc=Perseus%3Atext%3A1999.01.0125).
