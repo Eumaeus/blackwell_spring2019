@@ -27,6 +27,15 @@ The final exam will have three parts.
 
 The first will be **in class** on **Tuesday, April 30.** It will be an in-class test. You will receive some passages of Greek and be asked questions about them. To study, review our work on **Luke 2** and **Herodotus 1.8**. Be prepared to identify nouns in different cases, to identify verbs, and to talk about short phrases and the relationship between the Greek and an aligned translation. For Herodotus 1.8, you might download [this file](https://raw.githubusercontent.com/Eumaeus/blackwell_spring2019/master/texts/candaules_1_8_complete.cex) with a complete alignment of the passage. Anyone who needs accommodation for this should let me know, and I will set it up with the testing center.
 
+List of links:
+
+- [URL for the Luke Alignment](http://folio2.furman.edu/ducat/?urn=urn:cts:greekLit:tlg0031.tlg003.wh.tokens:2&urn=urn:cts:greekLit:tlg0031.tlg003.kjv.tokens:2&urn=)
+- CWB's Alignment File for Luke
+- URL for Herodotus 1.8
+- CWB's Alignment File for Herodotus 1.8
+- URL for Herodotus 1.9–1.10
+- Blank Alignment file for Herodotus 1.9–1.10
+
 The second will be due **by email on Tuesday, May 7, 5:00 pm.** It will be **your own alignment of Herodotus 1.9-1.10**. Use [this link](http://folio2.furman.edu/ducat/?urn=urn:cts:greekLit:tlg0016.tlg001.grc.token:1.9-1.10&urn=urn:cts:greekLit:tlg0016.tlg001.eng.token:1.9-1.10&urn=) and load [this file](https://raw.githubusercontent.com/Eumaeus/blackwell_spring2019/master/texts/candaules.cex). When you have done an alignment, download the resulting CEX file, name it "YOUR_NAME_herodotus.cex" and email it to me. Doing that correctly is part of the assignment. Do not forget that you can look up words in the [Lexicon](http://folio2.furman.edu/lsj/) or by using the [Perseus tools](http://www.perseus.tufts.edu/hopper/text?doc=Hdt.+1.9&fromdoc=Perseus%3Atext%3A1999.01.0125).
 
 The third will also be due **by email on Tuesday, May 7, 5:00 pm.** It will consist of about two pages of typing in response to some short essay-style questions about Greek, how it works, and how you work with it. You will receive these questions on **Tuesday, April 30.** 
