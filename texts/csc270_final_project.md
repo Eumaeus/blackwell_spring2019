@@ -6,6 +6,7 @@
 - Put all your old working files in there to get them out of the way.
 - If you do not already have a `README.md` file in your repo, make one. This is where you will describe what you are publishing.
 - The final organization of your github repo should look like this:
+
 ~~~
 my_repo/
 ├── MY_Text.cex
@@ -54,6 +55,7 @@ The Mandatory Pieces will earn a passing grade of some sort. For more than a min
 	- Be described in your (optional) README_analysis.md file (see above), perhaps with links to sources (reading scores, or whatever)
 - Discussion of *why* your analysis might be interesting, and *what its limitations are*. 
 - Discussion of *how you can have confidence in the results of your analysis*.
+- An `md` directory containing Markdown files for your text. And/or a `docx` directory containing `.docx` versions of your texts. You can use [pandoc](https://pandoc.org) for this. (Sample code is in the demo-repository.)
 
 ### Overall Assessment
 
